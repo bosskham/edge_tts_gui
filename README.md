@@ -42,7 +42,7 @@ A user-friendly desktop application for generating speech using Microsoft Edge's
 ## 🚀 How to Use
 
 1.  **Run the Application:**
-    * After downloading and extracting (if necessary), double-click the `EdgeTTSGenerator.exe` (or the equivalent executable for your OS) to start the application.
+    * After downloading and extracting (if necessary), double-click the edge_tts_gui_v1.2.exe` (or the equivalent executable for your OS) to start the application.
 
 2.  **Select Language and Voice:**
     * Choose your desired **Language** from the dropdown menu.
