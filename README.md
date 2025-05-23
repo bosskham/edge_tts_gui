@@ -50,7 +50,7 @@ A user-friendly desktop application for generating speech using Microsoft Edge's
 
 3.  **Adjust Audio Settings (Optional):**
     * **Rate:** Control the speed of the speech (-100% to +100%).
-    * **Pitch:** Adjust the pitch of the voice (-20st to +20st).
+    * **Pitch:** Adjust the pitch of the voice (-50Hz to +50Hz).
     * **Volume:** Modify the volume of the generated audio (-100% to +100%).
     * **Remove Silence:** Check this box to automatically trim silences from the beginning and end of the audio.
     * **Output Format:** Choose between MP3, WAV, or M4A for the saved audio file.
