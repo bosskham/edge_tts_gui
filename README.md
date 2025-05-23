@@ -34,10 +34,10 @@ A user-friendly desktop application for generating speech using Microsoft Edge's
             * Click "OK" on all open windows to save the changes.
             * You may need to restart your computer or log out and log back in for the changes to take effect.
     * **macOS:**
-        * The easiest way is using Homebrew: `brew install ffmpeg`
+        * The easiest way is using Homebrew: `brew install ffmpeg` Note: the build for macOS is in progress, I have met more bugs on mac than windows.
     * **Linux:**
         * Use your distribution's package manager. For example, on Debian/Ubuntu: `sudo apt update && sudo apt install ffmpeg`
-    * **Verify Installation:** Open a new terminal or command prompt and type `ffmpeg -version`. If it's installed correctly and in your PATH, you should see version information.
+    * **Verify Installation:** Open a new terminal or command prompt and type `ffmpeg -version`. If it's installed correctly and in your PATH, you should see version information. Note: I don't have Linux OS to build it for now maybe in the future update.
 
 ## 🚀 How to Use
 
