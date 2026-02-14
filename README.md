@@ -21,7 +21,7 @@ A user-friendly desktop application for generating speech using Microsoft Edge's
 
 1.  **Download the Application:**
     * Go to the [**Releases**](https://github.com/BossKham/edge_tts_gui/releases) page of this repository.
-    * Download the latest `edge_tts_gui_v1.2_win_x86-x64.zip` file from the "Assets" section.
+    * Download the latest `edge_tts_gui_v1.3.5_win_x86-x64.zip` file from the "Assets" section.
     * Extract the ZIP file to a folder on your computer if you downloaded a ZIP.
 
 2.  **Install FFmpeg (Required for WAV/M4A output and some audio processing):**
@@ -93,6 +93,7 @@ A user-friendly desktop application for generating speech using Microsoft Edge's
 ---
 
 *Note: This application requires an active internet connection to communicate with Microsoft Edge's TTS services for voice listing and speech synthesis.*
+
 
 
 
