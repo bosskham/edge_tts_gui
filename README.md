@@ -1,3 +1,5 @@
+# dependency deprecated
+
 # Edge TTS Generator by BossKham
 
 A user-friendly desktop application for generating speech using Microsoft Edge's online Text-to-Speech voices. Create high-quality audio from text with various customization options.
@@ -89,3 +91,4 @@ A user-friendly desktop application for generating speech using Microsoft Edge's
 ---
 
 *Note: This application requires an active internet connection to communicate with Microsoft Edge's TTS services for voice listing and speech synthesis.*
+
